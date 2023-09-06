@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88004534489",
+    "project_id": "ar2687340sebastiantorres",
+    "storage_bucket": "ar2687340sebastiantorres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88004534489:android:456f7e00441999817bdec8",
+        "android_client_info": {
+          "package_name": "co.edu.sena.ar2687340sebastianTorres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88004534489-s0ou6ho4dl8ueqlj2n7s0uls6p5hpq1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjeBsb8_RkmTEPJQrwpdFY_nLOj5MiBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88004534489-s0ou6ho4dl8ueqlj2n7s0uls6p5hpq1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
